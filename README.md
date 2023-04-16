@@ -1,4 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shaotian Zhang</h1>
+
+<!-- 图标 -->
+<p align="center">
+  <a href="https://github.com/tiansztiansz/voice-assistant/blob/main/LICENSE">
+    <img alt="License" src="src/license.svg" />
+  </a>&nbsp; &nbsp; 
+  <a href="https://space.bilibili.com/28606893?spm_id_from=333.1007.0.0">
+    <img alt="bilibili图标" src="src/BILIBILI_LOGO.svg" />
+  </a>&nbsp; &nbsp; 
+  <a href="https://www.cnblogs.com/tiansz/">
+    <img alt="博客园" src="src/博客园.jpg" />
+  </a>&nbsp; &nbsp;
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAqkpp6UyrANDXFStAMWuRPp7FU4zHfyq0_OYPoC75_qQ">
+    <img alt="抖音" src="src/抖音.svg" />
+  </a>
+</p>
+
 <h3 align="center">A data scientist and AI engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiansztiansz" alt="tiansztiansz" /></a> </p>
