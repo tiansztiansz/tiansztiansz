@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaotian Zhang</h1>
 
 <!-- 图标 -->
-<p align="center">
-  <a href="https://github.com/tiansztiansz/voice-assistant/blob/main/LICENSE">
-    <img alt="License" src="license.svg" />
-  </a>&nbsp; &nbsp; 
+<p align="center"> 
   <a href="https://space.bilibili.com/28606893?spm_id_from=333.1007.0.0">
     <img alt="bilibili图标" src="BILIBILI_LOGO.svg" />
   </a>&nbsp; &nbsp; 
