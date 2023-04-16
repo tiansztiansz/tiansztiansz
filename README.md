@@ -2,6 +2,9 @@
 
 <!-- 图标 -->
 <p align="center"> 
+  <a href="https://github.com/tiansztiansz/tiansztiansz/blob/main/wechat_alipay.png">
+    <img alt="License" src="捐赠.svg" />
+  </a>&nbsp; &nbsp; 
   <a href="https://space.bilibili.com/28606893?spm_id_from=333.1007.0.0">
     <img alt="bilibili图标" src="BILIBILI_LOGO.svg" />
   </a>&nbsp; &nbsp; 
