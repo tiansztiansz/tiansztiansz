@@ -13,6 +13,9 @@
   </a>&nbsp; &nbsp;
   <a href="https://www.douyin.com/user/MS4wLjABAAAAqkpp6UyrANDXFStAMWuRPp7FU4zHfyq0_OYPoC75_qQ">
     <img alt="抖音" src="抖音.svg" />
+  </a>&nbsp; &nbsp;
+  <a href="https://www.kaggle.com/tiansztianszs">
+    <img alt="kaggle" src="kaggle.svg" />
   </a>
 </p>
 
