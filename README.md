@@ -19,9 +19,9 @@
   </a>
 </p>
 
-<!-- <h3 align="center">A data scientist and AI engineer</h3> -->
+<h3 align="center">A data scientist and AI engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiansztiansz" alt="tiansztiansz" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiansztiansz" alt="tiansztiansz" /></a> </p> -->
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
