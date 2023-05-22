@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaotian Zhang</h1>
+<h1 align="center">Hi, I'm Shaotian Zhang</h1>
 
 <!-- 图标 -->
 <p align="center"> 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="center">A data scientist and AI engineer</h3>
+<!-- <h3 align="center">A data scientist and AI engineer</h3> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiansztiansz" alt="tiansztiansz" /></a> </p> -->
 
