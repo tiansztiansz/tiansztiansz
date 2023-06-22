@@ -10,9 +10,9 @@
   <a href="https://github.com/tiansztiansz">
     github
   </a>&nbsp; &nbsp;
-  <a href="https://www.kaggle.com/tiansztianszs">
+<!--   <a href="https://www.kaggle.com/tiansztianszs">
     kaggle
-  </a>&nbsp; &nbsp;
+  </a>&nbsp; &nbsp; -->
   <a href="https://huggingface.co/tiansz">
     huggingface
   </a>
